@@ -1,6 +1,6 @@
 # ![Pikselin https://pikselin.net](https://avatars.githubusercontent.com/u/106634444?s=48&v=4)  Recipe plugin
 
-Small modification to make thism odule compatible with PHP 8.2 method inheritance.
+Small modification to make this module compatible with PHP 8.2 method inheritance.
 
 # Silverstripe recipe-plugin
 
